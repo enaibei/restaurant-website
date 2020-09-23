@@ -1,4 +1,11 @@
 h1 {
     color: pink;
     text-align: center;
-}
+    background-color: black;
+    background-image: url(https://previews.123rf.com/images/rafinade/rafinade1705/rafinade170500005/78879601-beautiful-fruit-salad.jpg);
+    background-size (
+                        height: 200px;
+                        width: 50%;
+                    )
+
+    }
